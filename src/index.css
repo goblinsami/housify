@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#photo {
+    width: 350px;
+}
+#anchura{
+    width: 80%;
+}
+html{
+    text-decoration: none;
+}
+
+nav:hover{
+    text-decoration: none;
+}
